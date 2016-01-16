@@ -1,0 +1,9 @@
+c:\users\ahmadhalah\documents\visual studio 2012\Projects\jordan\jordan\bin\Debug\jordan.exe.config
+c:\users\ahmadhalah\documents\visual studio 2012\Projects\jordan\jordan\bin\Debug\jordan.exe
+c:\users\ahmadhalah\documents\visual studio 2012\Projects\jordan\jordan\bin\Debug\jordan.pdb
+c:\users\ahmadhalah\documents\visual studio 2012\Projects\jordan\jordan\obj\Debug\jordan.csprojResolveAssemblyReference.cache
+c:\users\ahmadhalah\documents\visual studio 2012\Projects\jordan\jordan\obj\Debug\jordan.Form1.resources
+c:\users\ahmadhalah\documents\visual studio 2012\Projects\jordan\jordan\obj\Debug\jordan.Properties.Resources.resources
+c:\users\ahmadhalah\documents\visual studio 2012\Projects\jordan\jordan\obj\Debug\jordan.csproj.GenerateResource.Cache
+c:\users\ahmadhalah\documents\visual studio 2012\Projects\jordan\jordan\obj\Debug\jordan.exe
+c:\users\ahmadhalah\documents\visual studio 2012\Projects\jordan\jordan\obj\Debug\jordan.pdb
